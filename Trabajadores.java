@@ -75,6 +75,9 @@ public class Trabajadores{
 	 }else if(clave == 3 && antiguedad > 7){
      	  vacaciones = 30;
           System.out.println(nombre + " con clave " + clave + ", tiene " + antiguedad +" años de servicio. Merece " + vacaciones + " días de vacaciones.");
+
+         }else if(clave > 3){
+          System.out.println("El numero de clave introducida no es correcto");
   }
  }
 }
