@@ -5,9 +5,9 @@ public class NumerosPares {
         int numero = 2;
         
         while (numero < 21){
-          //if (numero % 2 == 0){
-              System.out.println(numero);
-        //}
+          if (numero % 2 == 0){
+              System.out.print(numero + ", ");
+        }
         numero++;
       }
     }

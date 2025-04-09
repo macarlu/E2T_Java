@@ -1,8 +1,8 @@
-//Realizar un programa que pueda realizar una suma, una resta, una multiplicación o una división de dos números enteros, dependiendo de la decisión del usuario:
-//Si operación es igual a 1, realizar suma
-//Si operación es igual a 2, realizar resta
-//Si operación es igual a 3, realizar multiplicación
-//Si operación es igual a 4, realizar división
+/*Realizar un programa que pueda realizar una suma, una resta, una multiplicación o una división de dos números enteros, dependiendo de la decisión del usuario:
+Si operación es igual a 1, realizar suma
+Si operación es igual a 2, realizar resta
+Si operación es igual a 3, realizar multiplicación
+Si operación es igual a 4, realizar división*/
 
 public class Operacion{
   public static void main(String args[]){
