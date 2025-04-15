@@ -14,7 +14,8 @@ public class ComparaNombres {
         System.out.println("Introduce el segundo nombre: ");
         nombre2 = entrada.nextLine();
 
-        if(nombre1.equals(nombre2)){
+        if(nombre1.equalsIgnoreCase(nombre2)){
+        //con IgnoreCase detras de equals no discrimina entre mayusculas y minusculas
             System.out.println("Los nombres introducidos coinciden");
         }else{
             System.out.println("Los nombres son distintos");

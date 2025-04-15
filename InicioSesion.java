@@ -21,7 +21,7 @@ public class InicioSesion {
         if(usuario.equals(user) && contrasena.equals(password)){
             System.out.println("Acceso permitido");
         }else{
-            System.out.println("Usuario o contrasena incorrecto");
+            System.out.println("Usuario o contraseña incorrectos");
         }
     }
 }
