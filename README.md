@@ -102,9 +102,6 @@ Java cuenta con una gran comunidad y un extenso ecosistema de:
 > Hoy en día, Java sigue siendo uno de los lenguajes **más utilizados y valorados**, gracias a su enfoque en la **simplicidad, portabilidad y seguridad**.
 
 ---
-¡Genial! Aquí tienes el **Capítulo 2** con formato markdown visual, claro y listo para agregar a tu repositorio de GitHub junto con el Capítulo 1:
-
----
 
 ## CAPÍTULO 2: Configuración del Entorno de Desarrollo (JDK, IDE y Línea de Comandos)
 
@@ -288,9 +285,6 @@ java HelloWorld
 > Dominar esta configuración es el primer paso para convertirte en un desarrollador Java sólido y eficiente 🚀
 
 ---
-¡Perfecto! Aquí tienes el **Capítulo 3** con formato claro y profesional, organizado por secciones y listo para sumarlo a tu repositorio como parte del tema “Estructura de un Programa Java”:
-
----
 
 ## CAPÍTULO 3: Estructura Básica de un Programa de Java
 
@@ -457,9 +451,6 @@ Comprender la estructura básica de un programa Java te permite:
 > 🚀 *Dominar esta base es el primer paso hacia el desarrollo de aplicaciones Java robustas y profesionales.*
 
 ---
-¡Buenísimo! Acá tenés el **Capítulo 4** completamente organizado, con formato claro, práctico y listo para integrarse al `README.md` junto con los capítulos anteriores. Más adelante te armo también el índice con enlaces, como pediste.
-
----
 
 ## CAPÍTULO 4: Tipos de Datos y Variables
 
@@ -595,9 +586,6 @@ int valorEntero = (int) valorDecimal; // pierde la parte decimal
 - **Inicializa siempre las variables locales**.
 - **Elegir el tipo de dato más adecuado**: no uses `int` si `byte` alcanza.
 - **Reducir el alcance**: declaralas en el bloque más pequeño posible.
-
----
-¡Perfecto! Acá tenés el **Capítulo 5** listo, formateado y organizado para integrarse directamente en tu `README.md`:
 
 ---
 
@@ -997,9 +985,7 @@ if (clima.equals("soleado")) {
 }
 
 ---
-Aquí tienes el capítulo 7 reformateado con estructura clara, sintaxis Markdown para GitHub y elementos visuales que mejoran la comprensión:
 
-```markdown
 # CAPÍTULO 7: BUCLES - FOR, WHILE, DO-WHILE
 
 ## 🎯 Introducción
@@ -1194,9 +1180,7 @@ if (iteracionesConocidas) {
 }
 
 ---
-Aquí tienes el capítulo 8 estructurado en Markdown con mejoras visuales y pedagógicas:
 
-```markdown
 # CAPÍTULO 8: MÉTODOS - DEFINICIÓN, PARÁMETROS Y RETORNO
 
 ## 🧩 Introducción
@@ -1381,9 +1365,7 @@ public class Calculadora {
 ```
 
 ---
-Aquí tienes el capítulo 9 sobre manejo de excepciones en formato Markdown mejorado para GitHub:
 
-```markdown
 # CAPÍTULO 9: MANEJO DE EXCEPCIONES - TRY, CATCH, FINALLY
 
 ## 🚨 Introducción
@@ -1576,24 +1558,12 @@ try (FileInputStream fis = new FileInputStream("file.txt")) {
 - **`finally`**: Siempre se ejecuta (ideal para limpieza)
 - **Jerarquía**: `Exception` > `RuntimeException` > Excepciones específicas
 
-```mermaid
-graph TD
-    A[Inicio] --> B[try]
-    B --> C{Excepción?}
-    C -->|Sí| D[catch]
-    C -->|No| E[Continúa]
-    D --> F[finally]
-    E --> F
-    F --> G[Fin]
-```
 
 > **Regla de oro**: "Usa excepciones para lo excepcional, no para control de flujo regular"
 ```
 
 ---
-Aquí tienes el capítulo 10 sobre Clases y Objetos en formato Markdown mejorado:
 
-```markdown
 # CAPÍTULO 10: CLASES Y OBJETOS
 
 ## 🧱 Introducción a POO
@@ -1825,9 +1795,7 @@ classDiagram
 ```
 
 ---
-Aquí tienes el capítulo 11 sobre Modificadores de Acceso y Encapsulación en formato Markdown mejorado:
 
-```markdown
 # CAPÍTULO 11: MODIFICADORES DE ACCESO Y ENCAPSULACIÓN
 
 ## 🔒 Introducción
@@ -2053,9 +2021,7 @@ classDiagram
 ```
 
 ---
-Aquí tienes el capítulo 12 sobre Herencia y Polimorfismo en formato Markdown mejorado:
 
-```markdown
 # CAPÍTULO 12: HERENCIA Y POLIMORFISMO
 
 ## 🧬 Introducción
@@ -3075,15 +3041,6 @@ public class GUI {
 3. **`final`** variables requeridas para acceso en clases anónimas
 4. **Lambdas** > Clases anónimas para interfaces funcionales
 5. **Documentar** cuando la lógica es compleja
-
-```mermaid
-graph TD
-    A[Necesidad] --> B{¿Reutilizable?}
-    B -->|Sí| C[Clase Interna]
-    B -->|No| D{¿Simple?}
-    D -->|Sí| E[Clase Anónima]
-    D -->|No| F[Clase Interna con nombre]
-```
 
 > "Las clases anidadas deben usarse para representar relaciones has-a (tiene-un) fuertemente acopladas" - Joshua Bloch
 >
