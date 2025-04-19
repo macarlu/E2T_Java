@@ -14,7 +14,7 @@ Bienvenido a la Guía de Java para Principiantes. Este documento tiene como obje
 - [CAPÍTULO 4: TIPOS DE DATOS Y VARIABLES](#capítulo-4-tipos-de-datos-y-variables)
 - [CAPÍTULO 5: OPERADORES Y EXPRESIONES](#capítulo-5-operadores-y-expresiones)
 - [CAPÍTULO 6: CONTROL DE FLUJO - IF ELSE SWITCH](#capítulo-6-control-de-flujo---if-else-switch)
-- [CAPÍTULO 7: BUCLES - FOR WHILE DO-WHILE](#capítulo-7-bucles-for-while-do-while)
+- [CAPÍTULO 7: BUCLES - FOR WHILE DO-WHILE](#capitulo-7-bucles---for-while-do-while)
 - [CAPÍTULO 8: METODOS - DEFINICION PARAMETROS Y RETORNO](#capítulo-8-metodos-definicion-parametros-y-retorno)
 - [CAPÍTULO 9: MANEJO DE EXCEPCIONES - TRY CATCH FINALLY](#capítulo-9-manejo-de-excepciones---try-catch-finally)
 - [CAPÍTULO 10: CLASES Y OBJETOS](#capítulo-10-clases-y-objetos)
@@ -1004,17 +1004,16 @@ if (clima.equals("soleado")) {
 }
 ´´´´
 ---
-# CAPÍTULO 7: BUCLES - FOR, WHILE, DO-WHILE
+## Capitulo 7: Bucles - For While Do-While
 
-## 🎯 Introducción
+### 🎯 Introducción
 Los bucles automatizan tareas repetitivas, evitando código redundante. Java ofrece tres tipos:
 
 ```java
 // Ejemplo integrado
 for (int i = 0; i < 3; i++) {
     System.out.println("Iteración " + i); // Se ejecuta 3 veces
-}
-```
+}```
 
 ## 7.1 ¿Qué es un Bucle?
 Mecanismo que **repite código** mientras se cumpla una condición. Cada repetición se llama **iteración**.
