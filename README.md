@@ -1002,7 +1002,7 @@ if (clima.equals("soleado")) {
 } else {
     System.out.println("Netflix en casa"); // ← Esto se ejecutaría
 }
-
+´´´´
 ---
 # CAPÍTULO 7: BUCLES - FOR, WHILE, DO-WHILE
 
