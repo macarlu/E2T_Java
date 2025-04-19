@@ -1002,9 +1002,10 @@ if (clima.equals("soleado")) {
 } else {
     System.out.println("Netflix en casa"); // ← Esto se ejecutaría
 }
-´´´´
+```
 ---
-## Capitulo 7: Bucles - For While Do-While
+## Capitulo 7 Bucles - For While Do-While
+
 
 ### 🎯 Introducción
 Los bucles automatizan tareas repetitivas, evitando código redundante. Java ofrece tres tipos:
