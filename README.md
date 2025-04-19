@@ -1197,7 +1197,7 @@ if (iteracionesConocidas) {
 ```
 ---
 
-# CAPÍTULO 8: MÉTODOS - DEFINICIÓN, PARÁMETROS Y RETORNO
+# CAPÍTULO 8: METODOS - DEFINICION, PARAMETROS Y RETORNO
 
 ## 🧩 Introducción
 Los métodos son bloques de código reutilizables que organizan la lógica de un programa. Actúan como "subrutinas" con un propósito específico.
