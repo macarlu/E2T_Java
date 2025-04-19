@@ -1004,7 +1004,6 @@ if (clima.equals("soleado")) {
 }
 
 ---
-
 # CAPÍTULO 7: BUCLES - FOR, WHILE, DO-WHILE
 
 ## 🎯 Introducción
@@ -1016,8 +1015,6 @@ for (int i = 0; i < 3; i++) {
     System.out.println("Iteración " + i); // Se ejecuta 3 veces
 }
 ```
-
----
 
 ## 7.1 ¿Qué es un Bucle?
 Mecanismo que **repite código** mientras se cumpla una condición. Cada repetición se llama **iteración**.
