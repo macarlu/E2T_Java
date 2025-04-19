@@ -3,14 +3,34 @@
 ## **Introducción**
 Bienvenido a la Guía de Java para Principiantes. Este documento tiene como objetivo proporcionar una introducción completa y clara a los conceptos fundamentales de Java. A lo largo de esta guía, exploraremos desde la sintaxis básica hasta temas más avanzados, como el manejo de excepciones y la programación orientada a objetos.
 
-¡Perfecto! Aquí tienes el texto formateado de manera visual y organizada, ideal para usar como apuntes en tu GitHub en un archivo Markdown (`README.md` por ejemplo). Incluye títulos jerárquicos, listas con viñetas, y resaltado de conceptos clave:
-
 ---
 
 # 📘 E2T_Java
+##Indice:
+-[CAPÍTULO 1: Breve Historia y Filosofia de Java](##BREVE HISTORIA Y FILOSOFIA DE JAVA)
+-[CAPÍTULO 2: Configuración del Entorno de Desarrollo (JDK, IDE y Línea de Comandos)](## CONFIGURACION DEL ENTORNO DE DESARROLLO (JDK, IDE Y LINEA DE COMANDOS))
+-[CAPÍTULO 3: Estructura Básica de un Programa de Java](##ESTRUCTURA BASICA DE UN PROGRAMA DE JAVA)
+-[CAPÍTULO 4: Tipos de Datos y Variables](##TIPOS DE DATOS Y VARIABLES)
+-[CAPÍTULO 5: Operadores y Expresiones](##OPERADORES Y EXPRESIONES)
+-[CAPÍTULO 6: CONTROL DE FLUJO - IF, ELSE, SWITCH](##CONTROL DE FLUJO - IF, ELSE, SWITCH)
+-[CAPÍTULO 7: BUCLES - FOR, WHILE, DO-WHILE](##BUCLES - FOR, WHILE, DO-WHILE)
+-[CAPÍTULO 8: MÉTODOS - DEFINICIÓN, PARÁMETROS Y RETORNO](##MÉTODOS - DEFINICIÓN, PARÁMETROS Y RETORNO)
+-[CAPÍTULO 9: MANEJO DE EXCEPCIONES - TRY, CATCH, FINALLY](##MANEJO DE EXCEPCIONES - TRY, CATCH, FINALLY)
+-[CAPÍTULO 10: CLASES Y OBJETOS](##CLASES Y OBJETOS)
+-[CAPÍTULO 11: MODIFICADORES DE ACCESO Y ENCAPSULACIÓN](##MODIFICADORES DE ACCESO Y ENCAPSULACIÓN)
+-[CAPÍTULO 12: HERENCIA Y POLIMORFISMO](##HERENCIA Y POLIMORFISMO)
+-[CAPÍTULO 13: INTERFACES Y CLASES ABSTRACTAS](##INTERFACES Y CLASES ABSTRACTAS)
+-[CAPÍTULO 14: COLECCIONES - ARRAYLIST, HASHMAP Y HASHSET](##COLECCIONES - ARRAYLIST, HASHMAP Y HASHSET)
+-[CAPÍTULO 15: CLASES ANIDADAS Y ANÓNIMAS](##CLASES ANIDADAS Y ANÓNIMAS)
+-[CAPÍTULO 16: FLUJOS DE ENTRADA/SALIDA (I/O) EN JAVA](##FLUJOS DE ENTRADA/SALIDA (I/O) EN JAVA)
+-[CAPÍTULO 17: LECTURA Y ESCRITURA DE ARCHIVOS DE TEXTO](##LECTURA Y ESCRITURA DE ARCHIVOS DE TEXTO)
+-[CAPÍTULO 18: BUFFEREDREADER Y BUFFEREDWRITER PARA DATOS MASIVOS](##BUFFEREDREADER Y BUFFEREDWRITER PARA DATOS MASIVOS)
+-[CAPÍTULO 19: MANEJO DE ARCHIVOS BINARIOS EN JAVA](##MANEJO DE ARCHIVOS BINARIOS EN JAVA)
+-[CAPÍTULO 20: SERIALIZACIÓN DE OBJETOS EN JAVA](##SERIALIZACIÓN DE OBJETOS EN JAVA)
+-[CAPÍTULO 21: INTRODUCCIÓN A NIO (NEW I/O) EN JAVA](##INTRODUCCIÓN A NIO (NEW I/O) EN JAVA)
 
-## CAPÍTULO 1: Breve Historia y Filosofía de Java
 
+## CAPÍTULO 1: BREVE HISTORIA Y FILOSOFIA DE JAVA
 ---
 
 ### 🔹 1.1 Breve Historia de Java
@@ -103,9 +123,7 @@ Java cuenta con una gran comunidad y un extenso ecosistema de:
 
 ---
 
-## CAPÍTULO 2: Configuración del Entorno de Desarrollo (JDK, IDE y Línea de Comandos)
-
----
+## CAPÍTULO 2: CONFIGURACION DEL ENTORNO DE DESARROLLO (JDK, IDE Y LINEA DE COMANDOS)
 
 ### 🔧 Preparación del Entorno
 
@@ -286,8 +304,7 @@ java HelloWorld
 
 ---
 
-## CAPÍTULO 3: Estructura Básica de un Programa de Java
-
+## CAPÍTULO 3: ESTRUCTURA BASICA DE UN PROGRAMA DE JAVA
 ---
 
 ### 🧱 3.1 Elementos Fundamentales de un Programa Java
@@ -452,7 +469,7 @@ Comprender la estructura básica de un programa Java te permite:
 
 ---
 
-## CAPÍTULO 4: Tipos de Datos y Variables
+## CAPÍTULO 4: TIPOS DE DATOS Y VARIABLES
 
 ---
 
