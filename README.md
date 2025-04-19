@@ -1194,7 +1194,7 @@ if (iteracionesConocidas) {
 } else {
     usaDoWhile();
 }
-
+```
 ---
 
 # CAPÍTULO 8: MÉTODOS - DEFINICIÓN, PARÁMETROS Y RETORNO
